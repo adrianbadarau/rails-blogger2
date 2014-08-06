@@ -5,6 +5,9 @@ gem 'rails', '4.0.0'
 
 gem "paperclip", '3.5.2'
 
+gem 'sorcery'
+
+
 
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
